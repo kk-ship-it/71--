@@ -1,3 +1,9 @@
 h2 {
     background-color: pink;
 }
+
+.box {
+    width: 200px;
+    height: 333px;
+    background-color: green;
+}
